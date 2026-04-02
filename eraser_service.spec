@@ -4,7 +4,7 @@
 a = Analysis(
     ['eraser_service.py'],
     pathex=[],
-    binaries=[],
+    binaries=[('PenService-PCManager.dll', '.')],
     datas=[('res', 'res')],
     hiddenimports=[],
     hookspath=[],

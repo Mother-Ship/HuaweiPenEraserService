@@ -2,3 +2,4 @@ tendo
 pystray
 keyboard
 pillow
+psutil

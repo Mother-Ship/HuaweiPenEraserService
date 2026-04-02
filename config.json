@@ -1,0 +1,32 @@
+{
+  "target_app_shortcuts": {
+    "sai.exe": {
+      "pen": "b",
+      "eraser": "e"
+    },
+    "sai2.exe": {
+      "pen": "b",
+      "eraser": "e"
+    },
+    "photoshop.exe": {
+      "pen": "b",
+      "eraser": "e"
+    },
+    "clipstudiopaint.exe": {
+      "pen": "p",
+      "eraser": "e"
+    },
+    "clipstudiopaint_x64.exe": {
+      "pen": "p",
+      "eraser": "e"
+    },
+    "krita.exe": {
+      "pen": "b",
+      "eraser": "e"
+    },
+    "concepts.exe": {
+      "pen": "1",
+      "eraser": "e"
+    }
+  }
+}
